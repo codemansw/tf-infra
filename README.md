@@ -5,7 +5,7 @@ Get Client connected to Threefold grid example.
 
 > :warning: typescript setting **"skipLibCheck": true,**: Shouldn't be neccesary
 
-## installation
+### installation
 
 - clone repo
 - run `npm init`
